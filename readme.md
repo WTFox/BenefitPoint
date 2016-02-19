@@ -1,5 +1,5 @@
 
-# Sagitta
+# BenefitPoint
 
 This project is a python wrapper to interface with BenefitPoint webservices. 
 
