@@ -1,0 +1,1 @@
+from benefitpoint.benefitpoint import BenefitPoint
