@@ -14,7 +14,7 @@ Just download or clone this project then run
 
 ## Usage
 
-The Sagitta class takes 2 parameters to initalize - Username and Password. In the example below logins.py looks something like this: 
+The BenefitPoint class takes 2 parameters to initalize - Username and Password. In the example below logins.py looks something like this: 
 
 ``` python 
 
